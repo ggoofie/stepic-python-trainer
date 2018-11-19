@@ -1,2 +1,2 @@
-# stepic_python_trainer
+# stepic-python-trainer
 https://stepik.org/course/431
